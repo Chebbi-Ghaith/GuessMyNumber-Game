@@ -15,7 +15,7 @@ Collaborate on HTML and CSS: While this repository focuses on the JavaScript imp
 Suggest features and improvements: Share your ideas for new game mechanics, visual enhancements, or additional features to make the game even more engaging.
 Getting Started:
 
-Clone the repository: Use git clone https://github.com/[your-username]/guess-the-number to create a local copy.
+
 Open the index.html file: This file contains the HTML structure and links to the CSS and JavaScript files.
 Explore the script.js file: This file contains the JavaScript code that powers the game's logic and interactions.
 Run the game: Open index.html in your web browser to start playing.
